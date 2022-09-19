@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\bin\Debug\klasicaArejLista1.exe.config
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\bin\Debug\klasicaArejLista1.exe
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\bin\Debug\klasicaArejLista1.pdb
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\obj\Debug\klasicaArejLista1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\obj\Debug\klasicaArejLista1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\obj\Debug\klasicaArejLista1.Form1.resources
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\obj\Debug\klasicaArejLista1.Properties.Resources.resources
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\obj\Debug\klasicaArejLista1.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\obj\Debug\klasicaArejLista1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\obj\Debug\klasicaArejLista1.exe
+C:\Users\ucenik\source\repos\klasicaArejLista1\klasicaArejLista1\obj\Debug\klasicaArejLista1.pdb
